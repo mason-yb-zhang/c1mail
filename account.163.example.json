@@ -1,0 +1,10 @@
+{
+  "email": "your_name@163.com",
+  "name": "Your Name",
+  "password": "这里填网易授权码，不是登录密码",
+  "imapHost": "imap.163.com",
+  "imapPort": 993,
+  "smtpHost": "smtp.163.com",
+  "smtpPort": 465,
+  "skipTls": false
+}

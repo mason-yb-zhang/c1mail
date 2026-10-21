@@ -1,0 +1,10 @@
+{
+  "email": "your_name@outlook.com",
+  "name": "Your Name",
+  "password": "应用密码（若已开两步验证）或账户密码",
+  "imapHost": "outlook.office365.com",
+  "imapPort": 993,
+  "smtpHost": "smtp.office365.com",
+  "smtpPort": 587,
+  "skipTls": false
+}

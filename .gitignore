@@ -1,0 +1,9 @@
+# 凭证与运行时（禁止入库）
+account.json
+account.*.json
+!account.*.example.json
+out/
+*.trace
+# 本机缓存
+gocache/
+gopath/
